@@ -1,6 +1,6 @@
-# <h1> Welcome to Markdown 
-# <h2> Getting started
-# <h3> This is a New beggning 
-# <h4>How  would You approach this tutorial
-# <h5>Having problems?
-# <h6>Solutions
+# <h1> H1
+# <h2> H2
+# <h3> H3 
+# <h4> H4
+# <h5> H5
+# <h6> H6
