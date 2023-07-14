@@ -12,3 +12,5 @@ Alt-H1
 
 Alt-H2
 ------
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
